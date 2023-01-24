@@ -1,0 +1,35 @@
+*{
+    background: none;   
+}
+
+.Body-Login{
+    background-color: #00D3FF;
+}
+
+.Login{
+    height: 100%;
+}
+
+.img-login{
+    height: 400px;
+    margin: 180px 20px;
+}
+
+.divisao{
+    background-color: black;
+    height: 500px;
+    width: 2px;
+    float: right;
+    margin-top: 120px;
+    margin-right: 700px;
+}
+
+.Formulario-Login{
+    float: right;
+    margin-right: -450px;
+    margin-top: 220px;
+}
+
+a{
+    color: white;
+}
